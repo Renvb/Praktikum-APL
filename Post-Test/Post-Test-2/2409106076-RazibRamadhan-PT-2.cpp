@@ -16,7 +16,7 @@ int main() {
         cout << "Masukkan NIM: ";
         getline(cin, nim);
 
-        if (nama == "a" && nim == "1") {
+        if (nama == "Razib Ramadhan" && nim == "2409106076") {
             break;
         } else {
             percobaan++;
